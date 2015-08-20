@@ -12,7 +12,7 @@ The person designated as the timer will start time as soon as the first penny is
 For the first iteration, Each person will flip over all twenty pennies than pass all 20 to the next person until each person has flipped over every penny.
 
 ## 2nd Iteration
-For the next iteration, each person will flip over 5 pennies of the 20, than pass those 5 to the next person. They will repeat this until all 20 pennies are flipped and passed to the next person.
+For the next iteration, each person will flip over 5 pennies of the 20, than pass those 5 to the next person. They will repeat this until all 20 pennies are flipped and passed to the next person. If you received 5 pennies, you can start flipping immediately and sending groups of 5.
 
 ## 3rd Iteration
 For the last iteration, each person will flip 1 penny and pass it to the next person.
