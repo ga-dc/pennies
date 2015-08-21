@@ -4,12 +4,12 @@ This simulation is designed to demonstrate the values of some of the principles 
 
 We will be simulating moving items through a system.  This could be products on an assembly line, user stories in a development project, or iterations in a project.
 
-We will be simulating "work" by flipping coins over.  The idea of this exercise is for every person in the group to each coin only once.  
+We will be simulating "work" by flipping coins over.
 
 ## The setup
 We will separate into groups of about 7. Designate one person as the Product Owner and another as the Efficiency Expert.  The rest will be the Workers.
 
-Every group will receive 20 pennies.  One random group receives 20 coins of varying values (equal quantity of each value).
+Every group will receive 20 coins of varying values (equal quantity of each value).
 
 Once the setup is complete, move on to The Flow.
 
@@ -25,14 +25,15 @@ Each group will enter their times into the timing form (also displayed in the ro
 Each "Worker" can not begin until they have received their entire batch of coins.  Once they have received their batch, they begin flipping coins.  Once they have flipped their entire batch, they can pass that batch to the next Worker.
 
 ## The Iterations.
-Each iteration is defined below.  Once you complete the an iteration:
+Each iteration is defined below.  Once you complete an iteration:
+- enter times and submit the form,
 - reset the coins,
 - prepare the timers,
 - review the rules, and
 - the Product Owner can begin when your group is ready.
 
 Workers, any questions?
-Timers, Any questions?
+Timers, any questions?
 
 ## 1st Iteration
 For the first iteration, the batch size is all 20 coins.
